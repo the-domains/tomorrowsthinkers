@@ -1,6 +1,6 @@
 name: tomorrowsthinkers
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.4297987949103117
 title: Free education for Gifted Kids
 cta:
   domain: null
@@ -29,3 +29,4 @@ purpose:
   - name: awareness
     item: null
     url: null
+typography_spectrum: 0.3332673991099
